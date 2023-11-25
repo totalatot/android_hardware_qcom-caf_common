@@ -2,6 +2,11 @@
 MSMSTEPPE := sm6150
 TRINKET := trinket #SM6125
 
+# UL families
+B_FAMILY := msm8226 msm8610 msm8974
+B64_FAMILY := msm8992 msm8994
+BR_FAMILY := msm8909 msm8916
+
 # UM families
 UM_3_18_FAMILY := msm8996 msm8937 msm8953
 UM_4_4_FAMILY := msm8998 sdm660
